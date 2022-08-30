@@ -4,7 +4,7 @@
 
 An adaptable individual pursuing a master’s degree in Software Engineering from San Jose State University. I have one and a half years of experience building software applications. Currently, I'm interning at Sigma Computing as Software Engineer Intern. Also, I am someone who is always seeking innovative collaborations and transpires to learn!   
 
-#### 📝 [Resume](https://docs.google.com/document/d/1Ks6tP8xpRKMuLbFvU9r7H6A3zH-cNCpq/edit?usp=sharing&ouid=100651536708038182932&rtpof=true&sd=true)
+#### 📝 [Resume](https://drive.google.com/file/d/1XZ3eAvkiOgl28LO6uRhCsb-l5NLK1oEq/view?usp=sharing)
 
 
 ###  🛠 Technologies and Tools   
