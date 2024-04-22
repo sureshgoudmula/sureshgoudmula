@@ -2,7 +2,13 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sureshgoudmula/)
 
-An adaptable individual pursuing a master’s degree in Software Engineering from San Jose State University. I have one and a half years of experience building software applications. Currently, I'm interning at Sigma Computing as Software Engineer Intern. Also, I am someone who is always seeking innovative collaborations and transpires to learn!   
+Hello! I'm Suresh Goud Mula, a driven full-stack software engineer based in Pleasanton, CA. With over three years of experience in the tech industry, I specialize in designing and building scalable applications across various platforms. My technical toolkit includes advanced proficiency in Java, Golang, Python, and front-end technologies like Angular and React, coupled with robust back-end development skills in Spring Boot and Node.js.
+
+I hold a Master of Science in Computer Software Engineering from San Jose State University, where I honed my skills in software system engineering, web UI design, and enterprise software platforms. My professional journey includes significant roles at Sigma Computing in San Francisco, where I led development lifecycles and enhanced system performance and reliability through innovative cloud and microservices solutions.
+
+I am passionate about automating processes and improving efficiencies using state-of-the-art DevOps practices and modern frameworks. My experience spans across multiple cloud platforms, including AWS and GCP, where I have implemented scalable deployments and monitoring solutions.
+
+I am currently open to new opportunities where I can contribute to challenging projects and innovative solutions.   
 
 #### 📝 [Resume](https://docs.google.com/document/d/1-ydGDQx5mPm5nbDac0ye58qB6Oz-p7go589ksgpeSmA/edit?usp=sharing)
 
