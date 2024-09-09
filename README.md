@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sureshgoudmula/)
 
-Hello! I'm Suresh Goud Mula, a driven full-stack software engineer based in Pleasanton, CA. With over three years of experience in the tech industry, I specialize in designing and building scalable applications across various platforms. My technical toolkit includes advanced proficiency in Java, Golang, Python, and front-end technologies like Angular and React, coupled with robust back-end development skills in Spring Boot and Node.js.
+Hello! I'm Suresh Goud Mula, a driven full-stack software engineer based in Pleasanton, CA. With over five years of experience in the tech industry, I specialize in designing and building scalable applications across various platforms. My technical toolkit includes advanced proficiency in Java, Golang, Python, and front-end technologies like Angular and React, coupled with robust back-end development skills in Spring Boot and Node.js.
 
 I hold a Master of Science in Computer Software Engineering from San Jose State University, where I honed my skills in software system engineering, web UI design, and enterprise software platforms. My professional journey includes significant roles at Sigma Computing in San Francisco, where I led development lifecycles and enhanced system performance and reliability through innovative cloud and microservices solutions.
 
