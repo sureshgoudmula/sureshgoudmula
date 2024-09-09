@@ -10,7 +10,7 @@ I am passionate about automating processes and improving efficiencies using stat
 
 I am currently open to new opportunities where I can contribute to challenging projects and innovative solutions.   
 
-#### 📝 [Resume](https://docs.google.com/document/d/1-ydGDQx5mPm5nbDac0ye58qB6Oz-p7go589ksgpeSmA/edit?usp=sharing)
+#### 📝 [Resume](https://docs.google.com/document/d/1cXDUlQmgu-z66Zdr_r1liFM8RUMl_jjPI78z7G-ibbQ/edit?usp=sharing)
 
 
 ###  🛠 Technologies and Tools   
