@@ -2,20 +2,29 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sureshgoudmula/)
 
-Hello! I'm Suresh Goud Mula, a driven full-stack software engineer based in Pleasanton, CA. With over five years of experience in the tech industry, I specialize in designing and building scalable applications across various platforms. My technical toolkit includes advanced proficiency in Java, Golang, Python, and front-end technologies like Angular and React, coupled with robust back-end development skills in Spring Boot and Node.js.
+Hi there! 👋 I’m Suresh Goud Mula, a passionate Sr. Software Engineer with over 6 years of experience crafting scalable, high-performance software solutions. My journey in tech has been fueled by a deep love for problem-solving and a curiosity for innovation.
 
-I hold a Master of Science in Computer Software Engineering from San Jose State University, where I honed my skills in software system engineering, web UI design, and enterprise software platforms. My professional journey includes significant roles at Sigma Computing in San Francisco, where I led development lifecycles and enhanced system performance and reliability through innovative cloud and microservices solutions.
+I specialize in building robust backend systems and intuitive web applications using technologies like Golang, Java, and cloud platforms (AWS, Kubernetes, Docker). From designing microservices that handle millions of requests to creating seamless front-end experiences with React and Angular, I take pride in delivering impactful solutions that truly make a difference.
 
-I am passionate about automating processes and improving efficiencies using state-of-the-art DevOps practices and modern frameworks. My experience spans across multiple cloud platforms, including AWS and GCP, where I have implemented scalable deployments and monitoring solutions.
+💡 What drives me?
+I thrive on challenges! Whether it’s migrating entire microservices to improve performance, building APIs that power dynamic applications, or designing resilient cloud architectures, I approach every task with energy and determination. My mantra is simple: keep learning, stay curious, and build software that scales effortlessly.
 
-I am currently open to new opportunities where I can contribute to challenging projects and innovative solutions.   
+👨‍💻 My expertise includes:
 
-#### 📝 [Resume](https://docs.google.com/document/d/1cXDUlQmgu-z66Zdr_r1liFM8RUMl_jjPI78z7G-ibbQ/edit?usp=sharing)
+Building scalable, high-performing microservices using Golang and best practices in design patterns.
+Leveraging cloud platforms like AWS and Kubernetes to streamline deployments and ensure reliability.
+Optimizing databases, implementing secure authentication, and orchestrating services to handle real-world complexities.
+Leading teams, mentoring juniors, and fostering collaboration to drive projects to success.
 
+📚 Beyond the keyboard:
+I’ve always been passionate about giving back to the tech community. During my undergrad, I co-founded the Developer Student Society, organizing workshops and coding events that inspired future developers. I was also part of the Google Developer Student Club, an experience that helped me grow as both a learner and a leader. As a Teaching Assistant during my master’s, I discovered how much I enjoy mentoring others and helping them succeed.
+
+When I’m not coding or brainstorming new ideas, you’ll probably find me exploring the outdoors, geeking out over the latest tech trends, or sharing a laugh with friends.
 
 ###  🛠 Technologies and Tools   
 
 <p align="center">
+      <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="java width="48" height="48"/>
       <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="java width="48" height="48"/>
       <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Reactjs" width="48" height="48"/>
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="48" height="48"/>
@@ -24,12 +33,6 @@ I am currently open to new opportunities where I can contribute to challenging p
       <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="Reactjs" width="48" height="48"/>
       <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" width="48" height="48"/>
       <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS" width="48" height="48"/>
-</p>    
-
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> My GitHub Stats
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sureshgoudmula&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sureshgoudmula&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
 
