@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sureshgoudmula/)
 
-Hi there! 👋 I’m Suresh Mula, a passionate Sr. Software Engineer with over 5 years of experience crafting scalable, high-performance software solutions. My journey in tech has been fueled by a deep love for problem-solving and a curiosity for innovation.
+Hi there! 👋 I’m Suresh Mula, a passionate Software Engineer with over 6 years of experience crafting scalable, high-performance software solutions. My journey in tech has been fueled by a deep love for problem-solving and a curiosity for innovation.
 
 I specialize in building robust backend systems and intuitive web applications using technologies like Golang, Java, and cloud platforms (AWS, Kubernetes, Docker). From designing microservices that handle millions of requests to creating seamless front-end experiences with React and Angular, I take pride in delivering impactful solutions that truly make a difference.
 
